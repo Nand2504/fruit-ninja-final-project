@@ -6,7 +6,6 @@ import sys
 
 width = 1000
 height = 600
-black = (0, 0, 0)
 clock = pygame.time.Clock()
 g = 1
 score = 0
