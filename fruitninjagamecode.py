@@ -16,7 +16,7 @@ fruits = ['watermelon', 'orange', 'strawberry', 'banana']
 
 pygame.init()
 gameDisplay = pygame.display.set_mode((width, height))
-pygame.display.set_caption('Fruit Catcher Game')
+pygame.display.set_caption('Fruit Ninja Game')
 
 background = pygame.image.load('frunin_background.jpeg')  
 background = pygame.transform.scale(background, (width, height))
